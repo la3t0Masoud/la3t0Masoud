@@ -20,7 +20,8 @@
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=la3t0masoud&show_icons=true&locale=en&layout=compact" alt="la3t0masoud" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=la3t0masoud&show_icons=true&locale=en" alt="la3t0masoud" /></p>
-<picture align="center">
-  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashykng/ashykng/main/github-contribution-grid-snake-dark.svg" />
-  <img align="center" src="https://raw.githubusercontent.com/ashykng/ashykng/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
 </picture>
