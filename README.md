@@ -19,3 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=la3t0masoud&show_icons=true&locale=en&layout=compact" alt="la3t0masoud" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=la3t0masoud&show_icons=true&locale=en" alt="la3t0masoud" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashykng/ashykng/main/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ashykng/ashykng/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+</picture>
