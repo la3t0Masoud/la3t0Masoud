@@ -10,6 +10,13 @@
 </br>
 <h1 align="center"></h1>
 </br>
+<div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=la3t0Masoud&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=la3t0Masoud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<h1 align="center"></h1>
+</br>
+
 <p align="center" >- 📫 How to reach me **la3t.masoud11@gmail.com**</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
