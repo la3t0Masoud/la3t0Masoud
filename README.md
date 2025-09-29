@@ -25,6 +25,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="react" width="40" height="40"/> </a> </p>
 </br>
 </br>
+</br>
 <h1 align="center"></h1>
 </br>
 <div align="center">
@@ -32,15 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=la3t0Masoud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <h1 align="center"></h1>
-</br>
-
-<p align="center" >- 📫 How to reach me **la3t.masoud11@gmail.com**</p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://instagram.com/4m.a.s.o.u.d" target="blank">
-  <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4m.a.s.o.u.d" height="30" width="40" /></a>
-<h1 align="center"></h1>
-</p>
 </br>
 - JavaScript is the Boss
 <p align="center">
