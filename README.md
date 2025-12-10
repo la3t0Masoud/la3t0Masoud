@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Masoud</h1>  
-</h2>
-<img align="right" src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif"  width=50%>
-</br>
+<h1 align="center">Hi 👋, I'm Masoud</h1> 
+<div align="center"><img align="center" src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif"  width=50%></div>
+
 </br>
 </br>
 </be>
@@ -39,13 +38,7 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=la3t0Masoud&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=la3t0Masoud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<h1 align="center"></h1>
-</br>
-- JavaScript is the Boss
-<p align="center">
-</p>
-</br>
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
 </br>
 <h1 align="center"></h1>
 </p>
