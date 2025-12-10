@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masoud</h1> 
-<div align="center"><img align="center" src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif"  width=50%></div>
+<div align="center"><img align="center" src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif"  width=100%></div>
 
 </br>
 </br>
