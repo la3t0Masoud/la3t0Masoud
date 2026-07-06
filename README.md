@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masoud</h1> 
-<div align="center"><img align="center" src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif"  width=100%></div>
+<div align="center"><img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  width=100%></div>
 <h1 align="center"></h1>
 
 <p align="center">💡 Tech Stacks</p>
