@@ -78,7 +78,14 @@
   </tr>
 </table>
   </p>
+
+  
 <h1 align="center"></h1>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=la3t0Masoud&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0D1117" alt="Top Langs" />
+</p>
+<h1 align="center"></h1>
+
 </br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/la3t0Masoud/la3t0Masoud/output/pacman-contribution-graph-dark.svg">
