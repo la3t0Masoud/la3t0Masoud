@@ -86,6 +86,18 @@
 </p>
 <h1 align="center"></h1>
 
+<p align="center">
+My GitHub Stats:
+</p>
+<p align="center">
+  <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=la3t0Masoud&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=la3t0Masoud&theme=default" />
+</picture>
+</p>
+<h1 align="center"></h1>
+
 </br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/la3t0Masoud/la3t0Masoud/output/pacman-contribution-graph-dark.svg">
