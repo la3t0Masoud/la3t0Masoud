@@ -93,7 +93,7 @@ My GitHub Stats:
   <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=la3t0Masoud&theme=dark" />
-  <img src="https://streak-stats.demolab.com?user=la3t0Masoud&theme=default" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=la3t0Masoud&theme=default" />
 </picture>
 </p>
 <h1 align="center"></h1>
